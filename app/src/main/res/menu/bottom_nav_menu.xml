@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="HOME"
+        android:id="@+id/home"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:title="USER"
+        android:id="@+id/user"
+        android:icon="@drawable/ic_baseline_person_24"/>
+
+    <item
+        android:title=""
+        android:id="@+id/add" />
+
+    <item
+        android:title="BIN"
+        android:id="@+id/delete"
+        android:icon="@drawable/ic_baseline_delete_24"/>
+
+    <item
+        android:title="SETTINGS"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"/>
+</menu>
